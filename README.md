@@ -3,7 +3,7 @@ As a friendly reminder,thank you for watching the video below.
 https://drive.google.com/file/d/1gVKvdJMotRl4b_8meHxwpwX1mMk2djGt/view
 
 This project supports warehouse and manufacturing business operational efficiency, strengthens inventory and cost control, and improves supply chain visibility.
-It uses Python Pandas, Gradio, and SAP ERP system workflow concepts.
+It uses Python Pandas, Gradio/R/RStudio, and SAP ERP system workflow concepts.
 
 Purpose of this Project: To search for a material number and display its stock level, calculate total inventory quantity,
 review BOM components and required quantities,track and confirm material order statuses, compare purchase order quantities with goods receipt quantities,
